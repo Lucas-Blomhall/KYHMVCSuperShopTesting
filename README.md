@@ -22,3 +22,5 @@ https://guidgenerator.com/
 
 https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-messages/cs1061?f1url=%3FappId%3Droslyn%26k%3Dk(CS1061)
 
+https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-7.0
+
